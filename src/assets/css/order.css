@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.ssk{
+    width: 100vw;
+}
+.ssk img{
+        width: 12px;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.van-sidebar-item {
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.van-sidebar-item--select::before{
+    background: white;
+text-align: center;
+}
+  .my-swipe .van-swipe-item {
+    color: #fff;
+    font-size: 20px;
+    line-height: 150px;
+    text-align: center;
+    background-color: #39a9ed;
+  }
+
